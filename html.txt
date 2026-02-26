@@ -1,0 +1,102 @@
+<div class="sidearm-roster-player-header-details ">
+                        
+                            <div class="sidearm-roster-player-image-wrapper ">
+                                <div class="sidearm-roster-player-image ">
+                                    <img src="/images/2025/9/4/Henry_Hunt.jpg?width=146" alt="">
+                                </div>
+                                
+                                    <h2 class="sidearm-roster-player-heading flex flex-align-center mobile--view">
+                                
+                                    <span class="sidearm-roster-player-jersey-number">
+                                       1 
+                                         
+                                    </span>
+                                    
+                                    <span class="sidearm-roster-player-name ">
+                                        <span>Henry</span>
+                                        <span>Hunt</span>
+                                        
+                                    </span>
+                                    <div class="sidearm-roster-player-social flex flex-wrap">               
+                                        
+                                    </div>
+                                
+                                    </h2>
+                                
+                            </div>
+                        
+
+                        <div class="sidearm-roster-player-header-info-wrapper">
+                            <div class="sidearm-roster-player-header-info">
+                                
+                                    <h2 class="sidearm-roster-player-heading flex flex-align-center desktop--view">
+                                
+                                        <span class="sidearm-roster-player-jersey-number">
+                                           1 
+                                           
+                                        </span>
+                                    
+                                    <span class="sidearm-roster-player-name ">
+                                        <span>Henry</span>
+                                        <span>Hunt</span>
+                                        
+                                    </span>
+                                    <div class="sidearm-roster-player-social flex flex-wrap">
+                                        
+                                    </div>
+                                
+                                    </h2>
+                                
+                                
+                                <div class="sidearm-roster-player-fields flex flex-item-1">
+                                    <ul class="flex flex-item-1 row flex-wrap">
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>Position:</dt>
+                                                    <dd>Goaltender</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>Height:</dt>
+                                                    <dd>6-2</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>Weight:</dt>
+                                                    <dd>200</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>Class:</dt>
+                                                    <dd>Freshman</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>Hometown:</dt>
+                                                    <dd>Cedarburg, Wis.</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                            <li class="large-6 flex columns">
+                                                <dl class="flex-item-1">
+                                                    <dt>High School:</dt>
+                                                    <dd>Potomac Patriots</dd>
+                                                </dl>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="clear"></div>
+                    </div>
